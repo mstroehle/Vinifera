@@ -1,0 +1,12 @@
+[submodule "launcher"]
+	path = launcher
+	url = https://github.com/TheAssemblyArmada/SetSail.git
+[submodule "libs/baseconfig"]
+	path = libs/baseconfig
+	url = https://github.com/TheAssemblyArmada/baseconfig.git
+[submodule "libs/minilzo"]
+	path = libs/minilzo
+	url = https://github.com/TheAssemblyArmada/minilzo.git
+[submodule "libs/gamemath"]
+	path = libs/gamemath
+	url = https://github.com/TheAssemblyArmada/gamemath.git
